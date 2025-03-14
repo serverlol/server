@@ -66,3 +66,5 @@
 [18:16:37] [Server thread/INFO]: DarkedSkell joined the game
 [18:21:35] [Server thread/INFO]: Mex21[/127.254.90.81:45265] logged in with entity id 3591 at (-32.813208985164856, 67.0, -32.37575405728207)
 [18:21:35] [Server thread/INFO]: Mex21 joined the game
+[18:25:38] [Server thread/INFO]: DarkedSkell has made the advancement [Ice Bucket Challenge]
+[18:25:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1275, y=68, z=2} gu{x=-1277, y=67, z=0}
