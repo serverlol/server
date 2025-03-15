@@ -1,39 +1,51 @@
-[15:44:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:44:22] [ServerMain/INFO]: Loaded 7 recipes
-[15:44:22] [ServerMain/INFO]: Loaded 1271 advancements
-[15:44:23] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[15:44:23] [Server thread/INFO]: Loading properties
-[15:44:23] [Server thread/INFO]: Default game type: SURVIVAL
-[15:44:23] [Server thread/INFO]: Generating keypair
-[15:44:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:44:23] [Server thread/INFO]: Using epoll channel type
-[15:44:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:44:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:44:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:44:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:44:23] [Server thread/INFO]: Preparing level "world"
-[15:44:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:44:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:44:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:44:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:44:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:44:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:44:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:44:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:44:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:44:32] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[15:44:33] [Worker-Main-3/INFO]: Preparing spawn area: 86%
-[15:44:33] [Server thread/INFO]: Time elapsed: 6255 ms
-[15:44:33] [Server thread/INFO]: Done (9.624s)! For help, type "help"
-[15:44:37] [Server thread/INFO]: DarkedSkell[/127.69.105.140:50433] logged in with entity id 262 at (-1300.734295476234, 71.0, 6.0517075543479715)
-[15:44:37] [Server thread/INFO]: DarkedSkell joined the game
-[15:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
-[15:46:30] [Server thread/INFO]: DarkedSkell has made the advancement [Acquire Hardware]
-[15:53:23] [Server thread/INFO]: DarkedSkell has made the advancement [Monster Hunter]
-[15:54:58] [Server thread/INFO]: DarkedSkell has made the advancement [Fishy Business]
-[16:05:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1307, y=71, z=20} gu{x=-1307, y=69, z=20}
-[16:37:12] [Server thread/INFO]: DarkedSkell has made the advancement [A Seedy Place]
-[16:38:11] [Server thread/INFO]: DarkedSkell has made the advancement [Tactical Fishing]
+[17:02:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:02:03] [ServerMain/INFO]: Loaded 7 recipes
+[17:02:04] [ServerMain/INFO]: Loaded 1271 advancements
+[17:02:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:02:04] [Server thread/INFO]: Loading properties
+[17:02:04] [Server thread/INFO]: Default game type: SURVIVAL
+[17:02:04] [Server thread/INFO]: Generating keypair
+[17:02:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:02:04] [Server thread/INFO]: Using epoll channel type
+[17:02:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:02:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:02:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:02:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:02:04] [Server thread/INFO]: Preparing level "world"
+[17:02:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:02:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:02:21] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[17:02:21] [Server thread/INFO]: Time elapsed: 14467 ms
+[17:02:21] [Server thread/INFO]: Done (16.919s)! For help, type "help"
+[17:02:30] [Server thread/INFO]: DarkedSkell[/127.69.105.140:60653] logged in with entity id 269 at (-1289.0410519845748, 70.0, 0.038135448137690035)
+[17:02:30] [Server thread/INFO]: DarkedSkell joined the game
+[17:05:15] [Server thread/INFO]: Mex21[/127.254.90.81:38031] logged in with entity id 1061 at (-1299.425945528862, 74.0, 7.886450983847586)
+[17:05:15] [Server thread/INFO]: Mex21 joined the game
+[17:05:54] [Server thread/INFO]: DarkedSkell has made the advancement [Hot Stuff]
