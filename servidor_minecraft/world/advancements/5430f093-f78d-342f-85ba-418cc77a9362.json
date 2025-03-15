@@ -8,10 +8,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-14 18:22:29 +0000",
+      "minecraft:beach": "2025-03-15 17:43:40 +0000",
       "minecraft:river": "2025-03-15 17:15:09 +0000",
       "minecraft:swamp": "2025-02-28 23:57:35 +0000",
       "minecraft:cold_ocean": "2025-03-14 18:35:40 +0000",
       "minecraft:forest": "2025-03-14 18:22:28 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-15 17:48:23 +0000",
       "minecraft:plains": "2025-03-14 18:36:50 +0000"
     },
     "done": false
@@ -81,6 +83,7 @@
       "porkchop": "2025-03-14 18:28:50 +0000",
       "apple": "2025-03-14 18:46:25 +0000",
       "mutton": "2025-03-14 18:22:58 +0000",
+      "bread": "2025-03-15 17:47:16 +0000",
       "rotten_flesh": "2025-03-15 17:27:45 +0000"
     },
     "done": false
@@ -1061,6 +1064,18 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-03-15 17:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-15 17:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-15 17:45:17 +0000"
     },
     "done": true
   },
