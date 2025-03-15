@@ -1,51 +1,36 @@
-[17:02:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:02:03] [ServerMain/INFO]: Loaded 7 recipes
-[17:02:04] [ServerMain/INFO]: Loaded 1271 advancements
-[17:02:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:02:04] [Server thread/INFO]: Loading properties
-[17:02:04] [Server thread/INFO]: Default game type: SURVIVAL
-[17:02:04] [Server thread/INFO]: Generating keypair
-[17:02:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:02:04] [Server thread/INFO]: Using epoll channel type
-[17:02:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:02:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:02:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:02:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:02:04] [Server thread/INFO]: Preparing level "world"
-[17:02:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:02:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:21] [Worker-Main-2/INFO]: Preparing spawn area: 27%
-[17:02:21] [Server thread/INFO]: Time elapsed: 14467 ms
-[17:02:21] [Server thread/INFO]: Done (16.919s)! For help, type "help"
-[17:02:30] [Server thread/INFO]: DarkedSkell[/127.69.105.140:60653] logged in with entity id 269 at (-1289.0410519845748, 70.0, 0.038135448137690035)
-[17:02:30] [Server thread/INFO]: DarkedSkell joined the game
-[17:05:15] [Server thread/INFO]: Mex21[/127.254.90.81:38031] logged in with entity id 1061 at (-1299.425945528862, 74.0, 7.886450983847586)
-[17:05:15] [Server thread/INFO]: Mex21 joined the game
-[17:05:54] [Server thread/INFO]: DarkedSkell has made the advancement [Hot Stuff]
+[17:38:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:38:11] [ServerMain/INFO]: Loaded 7 recipes
+[17:38:12] [ServerMain/INFO]: Loaded 1271 advancements
+[17:38:12] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:38:12] [Server thread/INFO]: Loading properties
+[17:38:12] [Server thread/INFO]: Default game type: SURVIVAL
+[17:38:12] [Server thread/INFO]: Generating keypair
+[17:38:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:38:13] [Server thread/INFO]: Using epoll channel type
+[17:38:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:38:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:38:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:38:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:38:13] [Server thread/INFO]: Preparing level "world"
+[17:38:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:38:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:38:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:38:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:38:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:38:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:38:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:38:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:38:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:38:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:38:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:38:21] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[17:38:22] [Worker-Main-1/INFO]: Preparing spawn area: 74%
+[17:38:22] [Server thread/INFO]: Time elapsed: 5763 ms
+[17:38:22] [Server thread/INFO]: Done (9.124s)! For help, type "help"
+[17:38:25] [Server thread/INFO]: DarkedSkell[/127.69.105.140:56915] logged in with entity id 262 at (-1217.2797820946105, -25.0, 69.26343460253167)
+[17:38:25] [Server thread/INFO]: DarkedSkell joined the game
+[17:38:35] [Server thread/INFO]: Mex21[/127.254.90.81:54771] logged in with entity id 598 at (-1151.699999988079, -24.0, -106.94482247531937)
+[17:38:35] [Server thread/INFO]: Mex21 joined the game
+[17:40:49] [Server thread/WARN]: UUID of added entity already exists: brq['Chicken'/1119, l='ServerLevel[world]', x=-1443.09, y=69.00, z=105.09]
+[17:42:29] [Server thread/INFO]: Mex21 was slain by Zombie
+[17:44:38] [Server thread/INFO]: Mex21 fell from a high place
