@@ -1428,6 +1428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-15 16:15:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-15 15:46:30 +0000"
@@ -1562,8 +1568,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-15 16:09:49 +0000",
       "minecraft:spider": "2025-03-15 15:53:23 +0000",
-      "minecraft:zombie": "2025-03-15 15:53:33 +0000"
+      "minecraft:creeper": "2025-03-15 16:17:23 +0000",
+      "minecraft:zombie": "2025-03-15 15:53:33 +0000",
+      "minecraft:zombie_villager": "2025-03-15 16:12:57 +0000"
     },
     "done": false
   },
@@ -1603,6 +1612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-15 16:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-03-15 15:46:30 +0000"
@@ -1633,6 +1648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-15 16:15:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-03-15 15:53:24 +0000"
@@ -1642,6 +1663,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-15 15:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-15 16:15:15 +0000"
     },
     "done": true
   },
